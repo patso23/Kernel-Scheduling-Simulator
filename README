@@ -1,0 +1,19 @@
+Patrick O'Shea
+CS450
+10/1/2010
+HW2 Pt 3
+
+
+Sched.py contains the python code for my simulator.
+
+
+In order to use the sim, you must pass 2 arguments on the command line, the first is a config file, then second an exec file, i.e.:
+python sched.py config.cfg exec.ex
+
+You may name the files anything you want.
+
+Included are the provided config and exec files, and a sample of output using those files.
+
+
+
+
