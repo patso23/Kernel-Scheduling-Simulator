@@ -1,0 +1,10 @@
+patso@Caladan:~/Documents/Masters/Fall 2010/CS450/hw2pt3$ python sched.py config.cfg exec.ex
+Process		Turnaround	Avg Wait time	Number of queue Switches
+-------		----------	---------	------------------------
+0 		170.5 		3.00 		1
+Process		Turnaround	Avg Wait time	Number of queue Switches
+-------		----------	---------	------------------------
+1 		176.0 		2.00 		2
+Total Run Time:  176.0
+(All times in ms)
+
